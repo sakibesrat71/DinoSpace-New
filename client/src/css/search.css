@@ -1,0 +1,17 @@
+li#search{
+    background-color: rgba(36, 254, 247, 0.446);
+    width: 150px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 2px;
+    display: block;
+   margin-right: 300px;
+}
+ul{
+    /* display: none; */
+}
+
+a#search{
+    color: rgb(244, 244, 244);
+    text-decoration: none;
+}

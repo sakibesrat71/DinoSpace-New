@@ -1,0 +1,87 @@
+.container{
+    /* margin:0;
+    padding: 0; */
+    /* max-width: fit-content; */
+}
+.col{
+    /* padding-left: 20px; */
+    /* width: 00px; */
+    /* background-color: rgb(41, 39, 39); */
+    padding-left: 40px;
+    width: 0px;
+}
+.row{
+    width: 350px;
+
+}
+/* .right{
+    margin-top:20%;
+    margin-left:40%;
+} */
+.user{
+    width: 80px;
+    height:80px;
+    margin-bottom:2rem;
+    /* padding-left: 20px; */
+}
+Form{
+    /* padding-left: 20px; */
+    padding-top: 0px;
+    /* width: 300px; */
+}
+.form-control{
+    width:140%;
+    /* padding-left: 20px; */
+}
+
+p.emnei{
+    padding: 10px;
+    margin-left: 30%;
+    color: antiquewhite;
+}
+
+p.hudai{
+    color: antiquewhite;
+}
+svg{
+    margin-left: 60%;
+}
+img.user{
+    border-color: white;
+    border-radius: 50%;
+    margin-left: 20%;
+}
+img.bg{
+    position: relative;
+}
+
+label.form-label{
+    color: white;
+    /* margin-left: 0%; */
+}
+
+input#Rname.form-control{
+    width: 345px;
+}
+
+/* input#time.form-control{
+    width: 150px;
+} */
+
+button#emnei.btn.btn-primary {
+    margin-left: 45%;
+}
+div.other,a{
+    display: inline-block;
+    /* padding-left: 25px; */
+}
+a#other{
+    margin-left: 90%;
+}
+/* div#signInButton{
+    border-radius: 50%;
+} */
+
+span{
+    padding: 0%;
+}

@@ -1,0 +1,133 @@
+div.profile{
+    position: absolute;
+    top: 20%;
+    left: 35%;
+}
+.profile2{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.profile3{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+.profile4{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+.profile5{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+
+img.card-img-top.profileImg{
+    width:200px;
+}
+img.rounded-circle{
+    height: 100px;
+    width: 100px;
+}
+div.profileCard.card{
+    width:400px;
+    height:400px;
+    padding:40px;
+    justify-content: center;
+    background-color: rgb(228, 224, 220);
+}
+.cardImg{
+    margin-left: 35%;
+}
+
+div.mobile.col-md-5{
+    padding: 0px;
+}
+div.name.card-title.h5{
+       margin-left: 30%;     
+}
+p.address.card-text{
+    width:200px;
+}
+.btn-info{
+    margin-left: 21%;
+}
+a.navlogo{
+    position: fixed;
+    top: 2%;
+    left: 2%;
+
+}
+/* div.navbar2{
+    position: fixed;
+    top: 1%;
+} */
+.links2 {
+    display: flex;
+    text-align: center;
+    max-width: auto;
+    position: fixed;
+    top:2%;
+    left: 75%;
+}
+.links2 a{
+    font-size: 20px;
+    text-align: center;
+color: rgb(240, 254, 255);
+  margin-top: 20px;
+  margin-right: 10px;
+  text-decoration: none;
+  padding: 10px;
+  }
+
+  a:hover {
+    color: #35dbf1;
+}
+
+p#rname{
+    /* margin-top: 5%; */
+    color: rgb(250, 250, 250);
+    position: relative;
+}
+h1#rname{
+    /* margin-top: 5%; */
+    color: rgb(250, 250, 250);
+    position: relative;
+    font-size: 40px;
+}
+
+div#interior.interior{
+    position: relative;
+    top: 70%;
+    left: 30%;
+
+}
+
+div.info{
+    padding: 40px;
+    background-color: rgba(0, 0, 0, 0.583);
+    /* display: inline-block; */
+    position: relative;
+    margin-left: 0%;
+    margin-top: 10%;
+    /* margin-top: 20%; */
+
+}
+
+div#reserve{
+    /* display: inline-block; */
+    /* padding-left: 200px; */
+    margin-top: 10%;
+    margin-left: 15%;
+}
+
+button#res.btn.btn-primary{
+    margin-left: 65%;
+}
+
+h1#edit{
+    color: rgb(242, 242, 242);
+    padding-bottom: 20px;
+}

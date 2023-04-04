@@ -1,0 +1,19 @@
+div#dash.col{
+    width:20px;
+    /* height: 100%; */
+    padding:0px;
+    background-color: black;
+}
+div#func.col{
+    width: 80%;
+
+}
+
+div#dash.row{
+    width:100%;
+}
+
+div#main.container{
+    margin: 0%;
+    padding: 0%;
+}

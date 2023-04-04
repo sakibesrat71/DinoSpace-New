@@ -1,0 +1,132 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  /* color: #333; */
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+h1{
+  text-align: left;
+  size: 100px;
+  margin: 0px;
+  margin-top: 2%;
+}
+
+img.dinologo{
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  /* padding: 5px; */
+  width: 100px;
+  float: left;
+}
+@media screen and (max-width: 600px) {
+  p.moto {
+    font-size: 10px;
+  }
+}
+
+p.moto{
+  font-size: 30px;
+  color: white;
+  word-spacing: 10px;
+  text-align: center;
+  letter-spacing: 2px;
+  font-weight: bold;
+  position: absolute;
+  top: 33%;
+  left: 50%;
+  font-weight: 500;
+  transform: translate(-50%, -50%);
+  /* font-size-adjust: ex-height 0.58; */
+}
+
+@media screen and (max-width: 600px) {
+  p.moto {
+    font-size: 15px;
+  }
+}
+
+
+Form.d-flex {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  /* right: 50%; */
+  /* transform: translate(-50%, -50%); */
+  /* font-size-adjust: ex-height 0.58; */
+}
+
+input.me-2.form-control{
+  width: 180px;
+}
+/* */
+
+.navbar {
+  display: flex;
+  max-width: auto;
+  /* position: fixed; */
+  padding: 0;
+  /* margin: 0 auto; */
+  /* border-bottom: 1px solid #f2f2f2; */
+}
+
+.navbar .links {
+  display: flex;
+  text-align: center;
+  margin-left: auto;
+  margin-top: -2%;
+  /* left: 0%; */
+}
+.navbar a {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-right: 10px;
+  text-decoration: none;
+  padding: 10px;
+}
+.navbar a:hover {
+  color: #f1356d;
+}
+
+h4{
+  padding-top: 40px;
+  /* padding:10px; */
+  padding-left: 60px;
+}
+
+img.card-img-top{
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+.card{
+  padding: 20px;
+  padding-left: 60px;
+  width:300px;
+}
+.card-body{
+  width:300px;
+  padding: 0;
+}
+p.card-text{
+  width: 300px;
+}
+
+.card-title{
+  padding-top: 10px;
+}
+
+span{
+  color: white;
+}
+.carousel-indicators { visibility: hidden; }
+
+.carousel-control-next, .carousel-control-prev {
+width: 10%;
+}

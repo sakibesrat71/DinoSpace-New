@@ -1,0 +1,46 @@
+.iconR{
+    position: fixed;
+    top: 40%;
+    /* padding: 20px; */
+    left: 30%;
+    width: 150px;
+    height: 80px;
+}
+
+.iconU{
+    position: fixed;
+    top: 40%;
+    left: 60%;
+    /* padding: 20px; */
+    width: 150px;
+    height: 80px;
+}
+.iconElements{
+    display: flex;
+    
+}
+
+button{
+    border-radius: 50px;
+    background-color: antiquewhite;
+    border-color: black;
+}
+
+button:hover{
+    color: aqua;
+    background-color: black;
+    border-color: aqua;
+}
+
+img{
+    height: auto;
+    max-width: auto;
+}
+
+/* bgImg img{
+    height: auto;
+} */
+
+/* .fade2{
+    position: fixed;
+} */
